@@ -12,7 +12,7 @@
 | 1 | [OMIG — Le Paiement Mobile](./case-study-1-orange-money.md) | Fintech & Inclusion Financière | 15 min |
 | 2 | [SGBG — La Cybersécurité qui a Sauvé des Millions](./case-study-2-sg-cybersecurite.md) | Cybersécurité | 30 min |
 | 3 | [Jumia Guinée — Big Data & Prédiction](./case-study-3-jumia-big-data.md) | Big Data & IA | 45 min |
-| 4 | [AGL Conakry Terminal — Le Cloud au Port](./case-study-4-agl-cloud.md) | Cloud Computing | 40 min |
+| 4 | [Logistic — Le Cloud au Port](./case-study-4-agl-cloud.md) | Cloud Computing | 40 min |
 | 5 | [EDG — L'IA Anti-Fraude](./case-study-5-edg-ia.md) | Intelligence Artificielle | 60 min |
 
 ---
